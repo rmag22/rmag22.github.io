@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="aboutme.md">About Me</a> -
-  <a href="Goals.md">Career Goals</a> -
-  <a href="Resume.md">Resume</a> -
-  <a href="projectsamples.md">Project Samples</a>
+  <a href="/aboutme.md">About Me</a> -
+  <a href="/Goals.md">Career Goals</a> -
+  <a href="/Resume.md">Resume</a> -
+  <a href="/projectsamples.md">Project Samples</a>
 </p>
 
 ---
