@@ -1,3 +1,12 @@
+<p align="center">
+  <a href="aboutme.md">About Me</a> -
+  <a href="Goals.md">Career Goals</a> -
+  <a href="resume.md">Resume</a> -
+  <a href="projectsamples.md">Project Samples</a>
+</p>
+
+
+
 <h1 align="center">Riley Magwood</h1>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d2ee8178-f4c1-4e33-8c90-c58b9f02b54b" width="250" />
