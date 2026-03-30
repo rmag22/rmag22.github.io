@@ -75,5 +75,5 @@ _Fall 2025_
 - **Digital System Design (In Progress):** Electronic systems for storing, transmitting, and processing information  
 - **Intro to Signal Processing (In Progress):** Signal analysis and transformation
 ---
-[Download my resume](ECEResume.docx)
+<a href="ECE Resume.docx" download="ECEResume">Download My Resume</a>
 
